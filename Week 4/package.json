@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Anu-2096/SIT-725-Week4#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mongoose": "^8.13.1"
   }
 }
